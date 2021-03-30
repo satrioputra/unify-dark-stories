@@ -1,0 +1,12 @@
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Revamp-2019-Lite" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Lite--Home-Non-Login" transform="translate(-283.000000, -36.000000)">
+            <g id="Header-Home-2">
+                <g id="System-Icons/Basic/Notification" transform="translate(280.000000, 34.000000)">
+                    <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M19,15 L19,11 C19,7.82 16.89,5.15 14,4.29 C13.99,4.29 13.99,4.28 13.98,4.28 C13.99,4.19 14,4.1 14,4 C14,2.9 13.1,2 12,2 C10.9,2 10,2.9 10,4 C10,4.1 10.01,4.19 10.02,4.28 C10.01,4.28 10.01,4.29 10,4.29 C7.11,5.15 5,7.82 5,11 L5,15 C5,16.1 4.1,17 3,17 L3,18.24 C3.65,18.52 4.32,18.75 5,18.96 C5.05,18.98 5.1,18.99 5.16,19 C6.718,19.467 8.339,19.771 10.009,19.911 C10.008,19.941 10,19.969 10,20 C10,21.104 10.896,22 12,22 C13.104,22 14,21.104 14,20 C14,19.969 13.992,19.941 13.991,19.911 C15.665,19.772 17.292,19.467 18.85,19 C18.9,18.99 18.95,18.97 19,18.96 C19.68,18.75 20.35,18.52 21,18.24 L21,17 C19.9,17 19,16.1 19,15" id="Fill-1" fill="#FFF" fill-rule="evenodd"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

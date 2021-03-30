@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.293,7.7081 L8.717,12.2921 C8.328,12.6821 7.691,12.6831 7.302,12.2941 L5.208,10.2061 C4.818,9.8171 4.818,9.1821 5.207,8.7931 L5.293,8.7071 C5.682,8.3181 6.319,8.3171 6.709,8.7051 L8.01,10.0001 L10.255,7.7501 L11.794,6.2081 C12.182,5.8181 12.818,5.8181 13.207,6.2071 L13.293,6.2931 C13.682,6.6821 13.682,7.3181 13.293,7.7081 M17.241,3.1161 C16.939,1.9631 16.037,1.0611 14.883,0.7591 C11.026,-0.2529 6.975,-0.2529 3.117,0.7591 C1.963,1.0611 1.062,1.9631 0.759,3.1161 C-0.253,6.9741 -0.253,11.0251 0.759,14.8831 C1.062,16.0371 1.963,16.9381 3.117,17.2411 C6.975,18.2531 11.026,18.2531 14.883,17.2411 C16.037,16.9381 16.939,16.0371 17.241,14.8831 C18.253,11.0251 18.253,6.9741 17.241,3.1161" id="path-1"></path>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="---&gt;-Bottom-Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Compositions/Bottom-Navigation/With-Dot-&amp;-Counter" transform="translate(-151.000000, -11.000000)">
+            <g id="Navigation-Bar">
+                <g id="brands" transform="translate(128.000000, 0.000000)">
+                    <g id="Group" transform="translate(20.000000, 8.000000)">
+                        <g id="Group-3" transform="translate(3.000000, 3.000000)">
+                            <g id="Oval-3-Copy">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#B5BBC5" xlink:href="#path-1"></use>
+                                <circle fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="-4" cy="-4" r="20"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

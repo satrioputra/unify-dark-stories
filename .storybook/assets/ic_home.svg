@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Oval 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.71,10.29 L12.42,1 L12.414,0.994 C11.633,0.213 10.367,0.213 9.586,0.994 L9.58,1 L0.29,10.29 L1.71,11.71 L3,10.42 L3,17 C3,18.104 3.896,19 5,19 L8,19 L8,15 C8,13.895 8.896,13 10,13 L12,13 C13.105,13 14,13.895 14,15 L14,19 L17,19 C18.105,19 19,18.104 19,17 L19,10.42 L20.29,11.71 L21.71,10.29 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="---&gt;-Bottom-Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Compositions/Bottom-Navigation/With-Dot-&amp;-Counter" transform="translate(-21.000000, -10.000000)">
+            <g id="Navigation-Bar">
+                <g id="home">
+                    <g id="Group-Copy-4" transform="translate(20.000000, 8.000000)">
+                        <g id="Group-4" transform="translate(1.000000, 2.000000)">
+                            <g id="Oval-3-Copy">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#03AC0E" xlink:href="#path-1"></use>
+                                <circle fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="-2" cy="-3" r="20"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
