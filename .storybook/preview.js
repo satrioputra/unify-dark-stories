@@ -23,7 +23,7 @@ export const parameters = {
   },
   viewMode: 'canvas', // Force first tab to be selected are Canvas tab
   viewport: {
-    defaultViewport: 'iphone5',
+    defaultViewport: 'iphone6',
     viewports: {
       ...INITIAL_VIEWPORTS,
       ...VIEWPORT_LIST,

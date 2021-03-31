@@ -17,12 +17,13 @@
   },
   "devDependencies": {
     "@babel/core": "^7.13.13",
-    "@storybook/addon-docs": "^6.1.21",
-    "@storybook/addon-knobs": "^6.1.21",
-    "@storybook/addon-notes": "^5.3.21",
     "@storybook/addon-actions": "^6.1.21",
+    "@storybook/addon-docs": "^6.1.21",
     "@storybook/addon-essentials": "^6.1.21",
+    "@storybook/addon-knobs": "^6.1.21",
     "@storybook/addon-links": "^6.1.21",
+    "@storybook/addon-notes": "^5.3.21",
+    "@storybook/addon-viewport": "^6.2.1",
     "@storybook/react": "^6.1.21",
     "@storybook/storybook-deployer": "^2.8.7",
     "babel-loader": "^8.2.2",
@@ -31,7 +32,7 @@
     "react-emotion": "9.2.12",
     "unify-icons": "0.6.0-dev-1",
     "unify-react-desktop": "0.7.0-dev-11",
-    "unify-react-mobile": "3.19.0-dev-1",
+    "unify-react-mobile": "3.19.0-dev-2",
     "unify-token": "2.0.0-beta-14"
   }
 }
