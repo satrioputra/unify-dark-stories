@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,12 C0,18.6276 5.3724,24 12,24 C18.6276,24 24,18.6276 24,12 C24,5.3724 18.6276,0 12,0 C5.3724,0 0,5.3724 0,12 Z M15.852,12.0396 C15.852,11.4468 16.3332,10.9644 16.926,10.9644 C17.52,10.9644 18.0024,11.4468 18.0024,12.0396 C18.0024,12.6336 17.52,13.1148 16.926,13.1148 C16.3332,13.1148 15.852,12.6336 15.852,12.0396 Z M5.9976,12.0396 C5.9976,11.4468 6.48,10.9644 7.074,10.9644 C7.6668,10.9644 8.1492,11.4468 8.1492,12.0396 C8.1492,12.6336 7.6668,13.1148 7.074,13.1148 C6.48,13.1148 5.9976,12.6336 5.9976,12.0396 Z M14.5584,14.9592 C14.7348,14.7828 15.0192,14.7828 15.1956,14.9592 C15.3708,15.1332 15.3708,15.4188 15.1956,15.5952 C13.4304,17.3592 10.5696,17.3592 8.8044,15.5952 C8.6292,15.4188 8.6292,15.1332 8.8044,14.9592 C8.9808,14.7828 9.2652,14.7828 9.4404,14.9592 C10.1472,15.6648 11.0736,16.0188 12,16.0188 C12.9264,16.0188 13.8528,15.6648 14.5584,14.9592 Z" id="path-1"></path>
+    </defs>
+    <g id="Drawer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="[UNIFY-Project]-New-Drawer---BUYER" transform="translate(-228.000000, -20.000000)">
+            <g id="direct-akun" transform="translate(224.000000, 16.000000)">
+                <g id="icon" transform="translate(4.000000, 4.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <polygon id="Fill-1" fill="#BDBDBD" mask="url(#mask-2)" points="-6 30 30 30 30 -6 -6 -6"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

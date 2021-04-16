@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon wallet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Drawer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="[UNIFY-Project]-New-Drawer---BUYER" transform="translate(-78.000000, -129.000000)">
+            <g id="Profile" transform="translate(16.000000, 69.000000)">
+                <g id="info-card-1" transform="translate(0.000000, 40.000000)">
+                    <g id="TokoCash" transform="translate(28.000000, 16.000000)">
+                        <g id="icon-wallet" transform="translate(34.000000, 4.000000)">
+                            <path d="M2,0 L15,0 C16.073,0.073 16.927,0.927 17,2 L17,17 L1.65,15.5 C0.776,15.401 0.089,14.706 0,13.83 L0,2.16 C0.007,1.031 0.874,0.093 2,0" id="Fill-1" fill="#A7EDA7"></path>
+                            <path d="M15.48,4 L2,4 C0.927,3.927 0.073,3.073 0,2 L0,16 C0.073,17.073 0.927,17.927 2,18 L16,18 C17.017,17.813 17.813,17.017 18,16 L18,6 C18,5.16 16.35,4 15.48,4" id="Fill-3" fill="#5BD35B"></path>
+                            <path d="M17,4 L12,4 C12.148,7.135 11.424,10.25 9.91,13 C7.43,17.17 1.65,18 1.65,18 L17,18 C18.017,17.813 18.813,17.017 19,16 L19,6 C18.927,4.927 18.073,4.073 17,4" id="Fill-5" fill="#42B549"></path>
+                            <path d="M6,8 L19,8 C19.552,8 20,8.448 20,9 L20,13 C20,13.552 19.552,14 19,14 L6,14 C5.448,14 5,13.552 5,13 L5,9 C5,8.448 5.448,8 6,8" id="Fill-7" fill="#A7EDA7"></path>
+                            <path d="M8,10 C8.552,10 9,10.448 9,11 C9,11.552 8.552,12 8,12 C7.448,12 7,11.552 7,11 C7,10.448 7.448,10 8,10" id="Fill-9" fill="#42B549"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

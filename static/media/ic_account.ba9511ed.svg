@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.5,10 C12.6705,10 12,9.328 12,8.5 C12,7.672 12.6705,7 13.5,7 C14.3295,7 15,7.672 15,8.5 C15,9.328 14.3295,10 13.5,10 M5,8.5 C5,7.672 5.6705,7 6.5,7 C7.3295,7 8,7.672 8,8.5 C8,9.328 7.3295,10 6.5,10 C5.6705,10 5,9.328 5,8.5 Z M0,10 C0,4.477 4.478,0 10,0 C15.522,0 20,4.477 20,10 C20,15.523 15.522,20 10,20 C4.478,20 0,15.523 0,10 Z M9.99991361,15.00064 C11.4501169,15.00064 12.8395684,14.36264 13.8135562,13.24964 C14.0830197,12.94064 14.0575431,12.46664 13.7547642,12.19064 C13.4510054,11.91364 12.9865484,11.94164 12.7161051,12.25164 C12.0115807,13.05764 11.0473915,13.50064 9.99991361,13.50064 C8.95243572,13.50064 7.98824652,13.05764 7.2837221,12.25164 C7.01327879,11.94164 6.5488218,11.91364 6.24506301,12.19064 C5.94228409,12.46664 5.91680755,12.94064 6.18627099,13.24964 C7.16025885,14.36264 8.54971035,15.00064 9.99991361,15.00064 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="---&gt;-Bottom-Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Compositions/Bottom-Navigation/With-Dot-&amp;-Counter" transform="translate(-278.000000, -10.000000)">
+            <g id="Navigation-Bar">
+                <g id="Group-2" transform="translate(256.000000, 0.000000)">
+                    <g id="Group" transform="translate(20.000000, 8.000000)">
+                        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                        <g id="Oval-3-Copy-2" transform="translate(2.000000, 2.000000)">
+                            <g>
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#B5BBC5" xlink:href="#path-1"></use>
+                                <circle fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="-3" cy="-3" r="20"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
