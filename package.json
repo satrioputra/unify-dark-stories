@@ -30,9 +30,9 @@
     "emotion": "9.2.12",
     "fbjs": "^3.0.0",
     "react-emotion": "9.2.12",
-    "unify-icons": "0.6.0-dev-1",
-    "unify-react-desktop": "0.7.0-dev-11",
-    "unify-react-mobile": "3.19.0-dev-2",
+    "unify-icons": "0.6.1-dev-1",
+    "unify-react-desktop": "0.7.0-dev-18",
+    "unify-react-mobile": "3.19.0-dev-4",
     "unify-token": "2.0.0-beta-14"
   }
 }
